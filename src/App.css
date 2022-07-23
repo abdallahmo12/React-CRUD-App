@@ -4,3 +4,9 @@
 h2{
   text-align: center;
 } */
+.allheight{
+  height: calc( 100vh -  60px)
+}
+.allheight-s{
+  height: calc( 100vh -  189px)
+}
